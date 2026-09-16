@@ -28,7 +28,6 @@ Supply-Flow--Analyzing-Warehouse-Operational-Efficiency/
 ├── dashboards/ # Dashboard files / screenshots
 ├── reports/ # Final reports and presentations
 └── README.md # Project documentation
-
 ---
 
 ## 🛠️ Tech Stack
