@@ -22,11 +22,11 @@
 ## 🗂️ Repository Structure
 Supply-Flow--Analyzing-Warehouse-Operational-Efficiency/
 │
-├── data/ # Raw and cleaned datasets
-├── notebooks/ # Jupyter notebooks for EDA and analysis
-├── dashboards/ # Dashboard files / screenshots
-├── reports/ # Final reports and presentations
-└── README.md # Project documentation
+├──  data/ # Raw and cleaned datasets
+├──  notebooks/ # Jupyter notebooks for EDA and analysis
+├──  dashboards/ # Dashboard files / screenshots
+├──  reports/ # Final reports and presentations
+└──  README.md # Project documentation
 
 
 ---
