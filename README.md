@@ -26,6 +26,7 @@ Supply-Flow--Analyzing-Warehouse-Operational-Efficiency/
 ├── Data(SC).zip/              # Raw and cleaned datasets
 ├── V1 & V2 notebooks/         # Jupyter notebooks for EDA and analysis
 ├── WOE Final-report/          # Final reports and presentations
+├── WE Capstone Presentation/  # Final Presentation  
 └── README.md                  # Project documentation
 ```
 ---
